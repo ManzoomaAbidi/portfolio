@@ -1,0 +1,94 @@
+
+.contact_1 h3
+{
+    display: inline;
+}
+.contact_1 a
+{
+    text-shadow: none;
+}
+ 
+input
+{
+    background: grey
+}
+
+.manzooma_info
+{
+    border: 1px solid #c7c7c7;
+    padding-left: 0px;
+    padding-right: 0px;
+    float: none
+}
+
+.manzooma_info img
+{
+  width: 100%;
+}
+
+.manzooma_info hr
+{
+    width: 230px; 
+}
+
+.manzooma_info h5 , .manzooma_info p
+{
+margin-left: 0px;
+}
+
+
+.about_li
+{
+  margin-top: 13px;
+}
+
+.about_li h4
+{
+    border-bottom: 1px solid white;
+    padding: 8px;
+}
+
+.about_li img
+{
+  border-radius: 25px;
+}
+
+.about_li p
+{
+  margin-top:10px;
+}
+
+.header_entrepreneur
+{
+  line-height: 2;
+}
+
+.work
+{
+  cursor: pointer;
+}
+
+.work hr
+{
+  margin-bottom: 10px;
+}
+
+.modal-content
+{
+  margin-top: 100px;
+}
+
+.img_modal
+  {
+    display: inline-block;
+  }
+.p_modal
+  {
+      margin-top: 10px;
+}
+.modal-body
+{
+    text-align: center
+}
+
+
